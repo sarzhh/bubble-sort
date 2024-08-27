@@ -22,7 +22,7 @@ def bubble_sort (bubble)
     break
    end
  end
- bubble 
+ bubble
 end
 
 puts bubble_sort(bubble).inspect
